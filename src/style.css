@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&family=Questrial&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:#FCE7D2;
+}
+
+header {
+    display: flex;
+    margin-left: 120px;
+    gap: 40px;
+    background-color: #C0CEAA;
+    width: 85%;
+    height: 64px;
+    border-radius: 16px;
+}
+
+header p {
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    margin-top: 20px;
+    text-align: center;
+    padding-left: 20px;
+    color: #EB5874;
+}
