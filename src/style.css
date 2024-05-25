@@ -31,3 +31,38 @@ header p {
     padding-left: 20px;
     color: #EB5874;
 }
+
+main h2 {
+    font-family: 'Raleway';
+    font-style: bold;
+    font-size: 16px;
+    background-color: #EB5874;
+    border-radius: 16px;
+    width: 140px;
+    height: 45px;
+    display: flex;
+    margin-left: 90px;
+    margin-top: 50px;
+    align-items: center;
+    text-align: center;
+}
+
+main h1 {
+    color: #FD8086;
+    font-family: 'Raleway';
+    font-style: bold;
+    font-size: 48px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+main p {
+    color: #FD8086;
+    font-family: 'Raleway';
+    font-style: bold;
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+main img {
+}
