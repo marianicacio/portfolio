@@ -268,3 +268,31 @@ main article {
     line-height: 38px;
     color: #EB5874;
 }
+
+.worksAndProjects p {
+    background-color: #C0CEAA;
+    width: 144px;
+    height: 45px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 250px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FD8086;
+}
+
+.worksAndProjects h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 56px;
+    color: #EB5874;
+    margin-left: 50px;
+    margin-top: 10px;
+}
