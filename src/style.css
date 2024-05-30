@@ -296,3 +296,88 @@ main article {
     margin-left: 50px;
     margin-top: 10px;
 }
+
+.design {
+    border: #C0CEAA solid 1px;
+    width: 184px;
+    height: 60px;
+    border-radius: 16px;
+    margin-left: 710px;
+    margin-top: -60px;
+    background-color: transparent;
+}
+
+.designButton {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 0px;
+    margin-left: -5px;
+}
+
+.designButton img {
+    background-color: #FD8086;
+    border-radius: 20px;
+}
+
+.designButton p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FD8086;
+}
+
+.designButton-2 {
+    background-color: #E0DBBD;
+    width: 184px;
+    height: 60px;
+    border-radius: 16px;
+    margin-top: -160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.designButton-2 p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #EB5874;
+}
+
+.design-2 {
+    border: #C0CEAA solid 1px;
+    width: 184px;
+    height: 60px;
+    border-radius: 16px;
+    margin-top: -60px;
+    background-color: transparent;
+}
+
+.designButton-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 0px;
+    margin-left: -5px;
+}
+
+.designButton-3 img {
+    background-color: #FD8086;
+    border-radius: 20px;
+}
+
+.designButton-3 p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FD8086;
+}
