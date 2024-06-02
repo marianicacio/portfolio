@@ -381,7 +381,7 @@ main article {
     color: #FD8086;
 }
 
-.projetos {
+.projectsCatCoffee {
     display: flex;
     flex-direction: column;
     border: #C0CEAA solid 1px;
@@ -392,7 +392,7 @@ main article {
     margin-top: 50px;
 }
 
-.projetos h1 {
+.projectsCatCoffee h1 {
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
@@ -405,7 +405,45 @@ main article {
     color: #C0CEAA;
 }
 
-.projetos p {
+.projectsCatCoffee p {
+    width: 299.78px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.projectsInterionDesign {
+    display: flex;
+    flex-direction: column;
+    border: #C0CEAA solid 1px;
+    width: 360px;
+    height: 460px;
+    border-radius: 16px;
+    margin-left: 400px;
+    margin-top: -460px;
+}
+
+.projectsInterionDesign h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 30px;
+    color: #C0CEAA;
+}
+
+.projectsInterionDesign p {
     width: 299.78px;
     height: 100px;
     display: flex;
