@@ -388,7 +388,7 @@ main article {
     width: 360px;
     height: 460px;
     border-radius: 16px;
-    margin-left: 70px;
+    margin-left: 200px;
     margin-top: 50px;
 }
 
@@ -426,7 +426,7 @@ main article {
     width: 360px;
     height: 460px;
     border-radius: 16px;
-    margin-left: 470px;
+    margin-left: 670px;
     margin-top: -460px;
 }
 
@@ -464,8 +464,8 @@ main article {
     width: 360px;
     height: 460px;
     border-radius: 16px;
-    margin-left: 870px;
-    margin-top: -460px;
+    margin-left: 200px;
+    margin-top: 100px;
 }
 
 .projectsVGB h1 {
@@ -502,8 +502,8 @@ main article {
     width: 360px;
     height: 460px;
     border-radius: 16px;
-    margin-left: 70px;
-    margin-top: 50px;
+    margin-left: 670px;
+    margin-top: -460px;
 }
 
 .projectsVelnic h1 {
