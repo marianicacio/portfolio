@@ -34,8 +34,8 @@ header p {
 
 main h2 {
     font-family: 'Raleway';
-    font-style: bold;
     font-size: 16px;
+    color: #E0DBBD;
     background-color: #EB5874;
     border-radius: 16px;
     width: 140px;
