@@ -564,3 +564,30 @@ main article {
     line-height: 56px;
     color: #EB5874;
 }
+
+.skills-image p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #EB5874;
+    transform: rotate(-0.03deg);
+}
+
+.skills-image  {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.img {
+    display: flex;
+    gap: 30px;
+    margin-top: 10px;
+}
