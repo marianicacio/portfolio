@@ -578,7 +578,7 @@ main article {
     transform: rotate(-0.03deg);
 }
 
-.skills-image  {
+.skills-image {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -599,4 +599,39 @@ main article {
 .others img {
     margin-top: 20px;
     margin-left: 100px;
-} 
+}
+
+.journey {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.journey p {
+    background-color: #C0CEAA;
+    width: 130px;
+    height: 45px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FD8086;
+}
+
+.journey h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #EB5874;
+    margin-top: 20px;
+}
