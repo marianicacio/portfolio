@@ -635,3 +635,21 @@ main article {
     color: #EB5874;
     margin-top: 20px;
 }
+
+.academic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    gap: 400px;
+}
+
+.academic h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #EB5874;
+}
