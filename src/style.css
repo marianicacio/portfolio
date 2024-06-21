@@ -763,3 +763,65 @@ main article {
     margin-left: 350px;
     margin-top: 50px;
 }
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.contact p {
+    background-color: #C0CEAA;
+    width: 130px;
+    height: 45px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FD8086;
+}
+
+.contact h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #EB5874;
+    margin-top: 20px;
+}
+
+.talk {
+    display: flex;
+    border: #E0DBBD solid 1px;
+    width: 246px;
+    border-radius: 16px;
+    gap: 30px;
+}
+
+.talk img {
+    margin-left: 20px;
+}
+
+.talk p {
+    background-color: transparent;
+    width: 300px;
+}
+
+.talk h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 56px;
+    text-align: center;
+    color: #C0CEAA;
+}
