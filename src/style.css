@@ -832,3 +832,27 @@ main article {
     margin-top: -40px;
     margin-right: 30px;
 }
+
+.e-mail h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #C0CEAA;
+}
+
+.e-mail p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #EB5874;
+}
