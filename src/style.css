@@ -801,6 +801,7 @@ main article {
 
 .talk {
     display: flex;
+    margin-right: 400px;
     border: #E0DBBD solid 1px;
     width: 246px;
     border-radius: 16px;
@@ -830,7 +831,7 @@ main article {
     flex-direction: column;
     align-items: end;
     margin-top: -40px;
-    margin-right: 30px;
+    margin-right: 350px;
 }
 
 .e-mail h1 {
@@ -840,6 +841,8 @@ main article {
     font-size: 20px;
     line-height: 23px;
     display: flex;
+    flex-direction: column;
+    justify-content: center;
     align-items: center;
     text-align: center;
     color: #C0CEAA;
