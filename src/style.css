@@ -801,10 +801,11 @@ main article {
 
 .talk {
     display: flex;
-    margin-right: 400px;
+    margin-right: 500px;
     border: #E0DBBD solid 1px;
     width: 246px;
     border-radius: 16px;
+    margin-top: 120px;
 }
 
 .talk img {
@@ -831,7 +832,8 @@ main article {
     flex-direction: column;
     align-items: end;
     margin-top: -40px;
-    margin-right: 350px;
+    margin-right: 250px;
+    margin-top: -45px;
 }
 
 .e-mail h1 {
@@ -840,6 +842,7 @@ main article {
     font-weight: 700;
     font-size: 20px;
     line-height: 23px;
+    margin-right: 150px;
     display: flex;
     flex-direction: column;
     justify-content: center;
