@@ -862,3 +862,10 @@ main article {
     text-align: center;
     color: #EB5874;
 }
+
+footer {
+    background-color: #FD8086;
+    margin-top: 100px;
+    width: 100%;
+    height: 88px;
+}
