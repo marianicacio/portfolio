@@ -877,3 +877,23 @@ footer p {
     margin-left: 40px;
     padding-top: 35px;
 }
+
+.networks {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -25px;
+    gap: 10px;
+}
+
+.logo {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    margin-left: 1150px;
+    margin-top: -55px;
+    background-color: #fe9d97;
+    width: 65px;
+    height: 65px;
+    border-radius: 400px;
+}
