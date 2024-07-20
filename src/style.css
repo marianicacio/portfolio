@@ -678,7 +678,7 @@ main article {
 .duolingo {
     border: #C0CEAA solid 1px;
     border-radius: 16px;
-    width: 550px;
+    width: 525px;
     height: 220px;
     margin-left: 720px;
     margin-top: 50px;
@@ -692,7 +692,7 @@ main article {
     line-height: 23px;
     display: flex;
     align-items: center;
-    margin-left: 50px;
+    margin-left: 40px;
     margin-top: 30px;
     color: #FD8086;
     transform: matrix(1, 0, 0, 1, 0, 0);
@@ -707,13 +707,13 @@ main article {
     color: #090E16;
     transform: matrix(1, 0, 0, 1, 0, 0);
     margin-top: 20px;
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 .data {
     display: flex;
     margin-top: 50px;
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 .data strong {
@@ -727,7 +727,7 @@ main article {
 .class {
     border: #C0CEAA solid 1px;
     border-radius: 16px;
-    width: 550px;
+    width: 525px;
     height: 220px;
     margin-left: 720px;
     margin-top: 50px;
@@ -741,7 +741,7 @@ main article {
     line-height: 23px;
     display: flex;
     align-items: center;
-    margin-left: 50px;
+    margin-left: 40px;
     margin-top: 30px;
     color: #FD8086;
     transform: matrix(1, 0, 0, 1, 0, 0);
@@ -756,7 +756,7 @@ main article {
     color: #090E16;
     transform: matrix(1, 0, 0, 1, 0, 0);
     margin-top: 20px;
-    margin-left: 50px;
+    margin-left: 40px;
 }
 
 .currently {
