@@ -560,4 +560,340 @@ main article {
     font-size: 48px;
     line-height: 56px;
     color: #EB5874;
+<<<<<<< Updated upstream
+=======
+}
+
+.skills-image p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #EB5874;
+    transform: rotate(-0.03deg);
+}
+
+.skills-image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.img {
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.others p {
+    margin-top: 100px;
+}
+
+.others img {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.journey {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.journey p {
+    background-color: #C0CEAA;
+    width: 130px;
+    height: 45px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FD8086;
+}
+
+.journey h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #EB5874;
+    margin-top: 20px;
+}
+
+.academic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    gap: 400px;
+}
+
+.academic h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #EB5874;
+}
+
+.moment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.moment p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #090E16;
+    transform: rotate(-0.03deg);
+}
+
+.moment h1 {
+    margin-top: 30px;
+}
+
+.duolingo {
+    border: #C0CEAA solid 1px;
+    border-radius: 16px;
+    width: 525px;
+    height: 220px;
+    margin-left: 720px;
+    margin-top: 50px;
+}
+
+.duolingo h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    margin-top: 30px;
+    color: #FD8086;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.duolingo p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #090E16;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.data {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+.data strong {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 20px;
+}
+
+.class {
+    border: #C0CEAA solid 1px;
+    border-radius: 16px;
+    width: 525px;
+    height: 220px;
+    margin-left: 720px;
+    margin-top: 50px;
+}
+
+.class h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    margin-top: 30px;
+    color: #FD8086;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.class p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #090E16;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.currently {
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.contact p {
+    background-color: #C0CEAA;
+    width: 130px;
+    height: 45px;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FD8086;
+}
+
+.contact h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    color: #EB5874;
+    margin-top: 20px;
+}
+
+.talk {
+    display: flex;
+    margin-right: 500px;
+    border: #E0DBBD solid 1px;
+    width: 246px;
+    border-radius: 16px;
+    margin-top: 120px;
+}
+
+.talk img {
+    margin-left: 20px;
+}
+
+.talk p {
+    background-color: transparent;
+    width: 300px;
+}
+
+.talk h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 56px;
+    text-align: center;
+    color: #C0CEAA;
+}
+
+.e-mail {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-top: -40px;
+    margin-right: 250px;
+    margin-top: -45px;
+}
+
+.e-mail h1 {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    margin-right: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: #C0CEAA;
+}
+
+.e-mail p {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #EB5874;
+}
+
+footer {
+    background-color: #FD8086;
+    margin-top: 100px;
+    width: 100%;
+    height: 88px;
+}
+
+footer p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 40px;
+    padding-top: 35px;
+}
+
+.networks {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -25px;
+    gap: 10px;
+}
+
+.logo {
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    margin-left: 1150px;
+    margin-top: -55px;
+    background-color: #fe9d97;
+    width: 65px;
+    height: 65px;
+    border-radius: 400px;
+>>>>>>> Stashed changes
 }
