@@ -897,3 +897,48 @@ footer p {
     height: 65px;
     border-radius: 400px;
 }
+
+@media screen and (max-width: 420px) {
+    header {
+        display: none;
+    }
+
+    
+main h2 {
+    font-family: 'Raleway';
+    font-style: bold;
+    font-size: 16px;
+    background-color: #EB5874;
+    border-radius: 16px;
+    width: 140px;
+    height: 45px;
+    display: flex;
+    flex-direction: column-reverse;
+    margin-left: 90px;
+    margin-top: 150px;
+    align-items: center;
+    text-align: center;
+}
+
+main h1 {
+    color: #FD8086;
+    font-family: 'Raleway';
+    font-style: bold;
+    font-size: 48px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+main p {
+    color: #FD8086;
+    font-family: 'Raleway';
+    font-style: bold;
+    font-size: 20px;
+    margin-left: 70px;
+}
+
+main img {
+    padding-left: 80px;
+    padding-top: 20px;
+}
+}
