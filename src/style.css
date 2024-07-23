@@ -920,6 +920,8 @@ main h2 {
 main h1 {
     color: #FD8086;
     font-family: 'Raleway';
+    display: flex;
+    flex-direction: column-reverse;
     font-style: bold;
     font-size: 48px;
     margin-left: 70px;
