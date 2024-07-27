@@ -946,12 +946,17 @@ main img {
 
 .myImage {
     display: flex;
-    margin-left: 100px;
+    margin-left: 55px;
     margin-top: -750px;
     background-color: #FD8086;
-    width: 515px;
-    height: 510px;
+    width: 315px;
+    height: 310px;
     border-radius: 400px;
+}
+
+.myImage img {
+    margin-top: 30px;
+    margin-left: -38px;
 }
 
 .figma {
@@ -959,7 +964,7 @@ main img {
     width: 71px;
     height: 71px;
     border-radius: 400px;
-    margin-left: 320px;
+    margin-left: 180px;
     margin-top: -40px;
     position: absolute;
 }
