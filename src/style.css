@@ -915,9 +915,13 @@ main h2 {
     display: flex;
     flex-direction: column-reverse;
     margin-left: 90px;
-    margin-top: 650px;
+    margin-top: 550px;
     align-items: center;
     text-align: center;
+}
+
+main {
+    margin-top: 200px;
 }
 
 main h1 {
@@ -960,17 +964,8 @@ main img {
 }
 
 .figma {
-    background-color: #C0CEAA;
-    width: 71px;
-    height: 71px;
-    border-radius: 400px;
     margin-left: 180px;
     margin-top: -40px;
-    position: absolute;
-}
-
-.figma img {
-    margin-left: -63px;
 }
 
 }
