@@ -678,9 +678,9 @@ main article {
 .duolingo {
     border: #C0CEAA solid 1px;
     border-radius: 16px;
-    width: 525px;
+    width: 480px;
     height: 220px;
-    margin-left: 720px;
+    margin-left: 420px;
     margin-top: 50px;
 }
 
@@ -700,6 +700,7 @@ main article {
 
 .duolingo p {
     font-family: 'Raleway';
+    width: 460px;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -719,6 +720,7 @@ main article {
 .data strong {
     font-family: 'Raleway';
     font-style: normal;
+    width: 200px;
     font-size: 16px;
     line-height: 19px;
     margin-top: 20px;
@@ -727,9 +729,9 @@ main article {
 .class {
     border: #C0CEAA solid 1px;
     border-radius: 16px;
-    width: 525px;
+    width: 480px;
     height: 220px;
-    margin-left: 720px;
+    margin-left: 420px;
     margin-top: 50px;
 }
 
@@ -750,6 +752,7 @@ main article {
 .class p {
     font-family: 'Raleway';
     font-style: normal;
+    width: 420px;
     font-weight: 400;
     font-size: 16px;
     line-height: 19px;
@@ -760,7 +763,7 @@ main article {
 }
 
 .currently {
-    margin-left: 350px;
+    margin-left: 300px;
     margin-top: 50px;
 }
 
